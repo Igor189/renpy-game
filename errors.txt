@@ -1,0 +1,18 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 164: menu statement expects a non-empty block.
+    menu:
+        ^
+
+File "game/script.rpy", line 165: expected statement.
+    "Это невыносимо! Подделывать даты, а ради чего? Я ухожу из этого дурдома, вернусь как осознаете свою ошибку.":
+                                                                                                                 ^
+
+File "game/script.rpy", line 167: expected statement.
+    "Я незнаю как это произошло, но нужно как то восстанавливать семью.":
+                                                                        ^
+
+Ren'Py Version: Ren'Py 8.0.3.22090809
+Thu Oct 20 19:11:15 2022
